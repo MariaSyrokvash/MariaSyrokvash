@@ -5,7 +5,7 @@
 #### My free time is dedicated to Codewars, programming tutorials, and becoming familiar with NodeJS, because, in the future, I see myself as a Full Stack Developer.
 
 
-####Skills:
+#### Skills:
 ![React](https://img.shields.io/badge/-React-282c34?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-282c34?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-282c34?style=for-the-badge&logo=typeScript)
