@@ -1,10 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**MariaSyrokvash/MariaSyrokvash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+#### I'm a frontend developer who has a results-focused attitude to creating SPA, using React(JS/TS), Redux.
+#### My free time is dedicated to Codewars, programming tutorials, and becoming familiar with NodeJS, because, in the future, I see myself as a Full Stack Developer.
+#### I would like to find project work and full-time employment in a company with a modern approach to development and a collaborative team.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
