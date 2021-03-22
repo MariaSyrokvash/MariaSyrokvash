@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there! 👋  My name is Maria Syrokvash
 
 #### I'm a frontend developer who has a results-focused attitude to creating SPA, using React(JS/TS), Redux.
 
-#### My free time is dedicated to Codewars, programming tutorials, and becoming familiar with NodeJS, because, in the future, I see myself as a Full Stack Developer.
-
+#### My free time is dedicated to [Codewars](https://www.codewars.com/users/MariaSyrokvash), programming tutorials, and becoming familiar with NodeJS, because, in the future, I see myself as a Full Stack Developer.
 
 #### Skills:
 ![React](https://img.shields.io/badge/-React-282c34?style=for-the-badge&logo=react)
@@ -22,3 +21,9 @@
 ![Github](https://img.shields.io/badge/-Github-282c34?style=for-the-badge&logo=Github)
 ![StoryBook](https://img.shields.io/badge/-StoryBook-282c34?style=for-the-badge&logo=StoryBook)
 ![Material-UI](https://img.shields.io/badge/-Material_UI-282c34?style=for-the-badge&logo=material_design)
+
+
+#### Contact details:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/MariaSyrokvash)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/maria-syrokvash-397934125/)
