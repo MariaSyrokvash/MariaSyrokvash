@@ -1,6 +1,6 @@
 ## Hi there! 👋  
 
-## I'm Maria Syrokvash.
+## I'm Maria Syrakvash.
 
 #### Frontend developer who has a results-focused attitude to creating SPA, using React(JS/TS), Redux.
 
@@ -27,5 +27,5 @@
 
 #### Contact details:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/MariaSyrokvash)
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/cheese_okay)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/maria-syrokvash-397934125/)
